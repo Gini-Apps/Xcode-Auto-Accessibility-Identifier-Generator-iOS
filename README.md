@@ -9,6 +9,9 @@ This will help when writing code for automation tests get UI elements.
 2. Run script 
 3. Enjoy :)
 
+PS:
+Works only with files from type .xib and .storyboard 
+
 ## Author
 
 OlegTsib, olegtsib@gmail.com
