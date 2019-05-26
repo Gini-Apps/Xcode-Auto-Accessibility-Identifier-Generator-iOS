@@ -11,8 +11,10 @@ This will help when writing code for automation tests get UI elements.
 
 ## PS:
 
-Works only with files from type .xib and .storyboard 
-To use Python 2.x need to install package "Futures". To install package run in terminal command "pip install futures"
+<ul>
+<li>Works only with files from type .xib and .storyboard </li>
+<li>To use Python 2.x need to install package "Futures". To install package run in terminal command "pip install futures"</li>
+</ul>
 
 ## Author
 
